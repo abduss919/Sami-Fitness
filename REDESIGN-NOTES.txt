@@ -1,0 +1,16 @@
+SAMI FITNESS — FINAL REDESIGN
+================================
+This version uses the supplied SAMI FITNESS project as the base and the supplied
+MAAZ GYM project only as a structural/design reference.
+
+The visual identity is intentionally different:
+- Graphite/black base
+- Emerald green accent
+- Larger editorial typography
+- Rounded image cards
+- Glass/blur header
+- Cinematic hero gradient
+- Responsive mobile layout
+- Existing SAMI project pages/assets retained where possible
+
+Replace/add your final photos in the existing images folder if desired.
